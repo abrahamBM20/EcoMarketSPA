@@ -1,4 +1,4 @@
-package com.example.inventario.controller;
+package com.example.EcoMarketSPA.controller;
 
 import java.util.ArrayList;
 
